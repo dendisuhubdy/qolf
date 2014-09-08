@@ -1,4 +1,4 @@
 all: main
 
 main:
-	g++ -dynamiclib -o libmain.dylib main.cpp
+	g++ -dynamiclib -o libqolf.dylib equityoptions.cpp
