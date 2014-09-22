@@ -1,8 +1,8 @@
-#include <math.h>
+#include <cmath>
 
-namespace equityoptions
+namespace options
 {
-	class equityoptions
+	class options
 	{
 	private:
 		double volatility;

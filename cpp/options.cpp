@@ -1,6 +1,6 @@
-#include "equityoptions.h"
+#include "options.h"
 
-namespace equityoptions
+namespace options
 {
 	double equityoptions::europeanoption(double volatility, double strike, double maturity, double time, double interest_rate)
 	{
